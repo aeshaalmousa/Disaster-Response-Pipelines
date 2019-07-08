@@ -26,8 +26,8 @@ Also, the project include a web app where an emergency worker can input a new me
 |- InsertDatabaseName.db    database to save clean data to
 
 - models
-|- train_classifier.py  machine learning pipline python script
-|- classifier.pkl   saved model 
+   - train_classifier.py  machine learning pipline python script
+   - classifier.pkl   saved model 
 
 - README.md
 
@@ -45,5 +45,5 @@ Also, the project include a web app where an emergency worker can input a new me
 3. Go to http://0.0.0.0:3001/
 
 ### Licensing, Authors, Acknowledgements:
-The data provider is <a href='https://www.figure-eight.com'>figure-eight</a>
-<a href='https://www.udacity.com/school-of-data-science'> Udacity </a> for its Instructions and providing a strong learning path.
+- The data provider is <a href='https://www.figure-eight.com'>figure-eight</a>
+- <a href='https://www.udacity.com/school-of-data-science'> Udacity </a> for its Instructions and providing a strong learning path.
