@@ -27,7 +27,7 @@ Also, the project include a web app where an emergency worker can input a new me
 
 - models
    - train_classifier.py  machine learning pipline python script
-   - classifier.pkl   saved model 
+   - classifier.pkl   saved model you first need to unzipped file
 
 - README.md
 
