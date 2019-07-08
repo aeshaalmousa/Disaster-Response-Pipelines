@@ -14,16 +14,16 @@ In this project, analyzing disaster data from Figure Eight to build a model for 
 Also, the project include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
 ### File Descriptions:
 - app
-| - template
-| |- master.html  main page of web app
-| |- go.html   classification result page of web app
-|- run.py   Flask file that runs app
+   - template
+         - master.html  main page of web app
+         - go.html   classification result page of web app
+   - run.py   Flask file that runs app
 
 - data
-|- disaster_categories.csv   data to process 
-|- disaster_messages.csv   data to process
-|- process_data.py  cleaning code(ETL processe python script)
-|- InsertDatabaseName.db    database to save clean data to
+   - disaster_categories.csv   data to process 
+   - disaster_messages.csv   data to process
+   - process_data.py  cleaning code(ETL processe python script)
+   - InsertDatabaseName.db    database to save clean data to
 
 - models
    - train_classifier.py  machine learning pipline python script
